@@ -1,0 +1,6 @@
+artifact_location: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956
+creation_time: 1751928192640
+experiment_id: '894820098926766956'
+last_update_time: 1751928192640
+lifecycle_stage: active
+name: tracking

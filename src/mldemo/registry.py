@@ -11,8 +11,8 @@ from sklearn import datasets, ensemble, metrics, model_selection
 # %% CONFIGS
 
 # - MLflow
-TRACKING_URI = "http://localhost:5000"
-REGISTRY_URI = "http://localhost:5000"
+TRACKING_URI = "http://localhost:5001"
+REGISTRY_URI = "http://localhost:5001"
 EXPERIMENT_NAME = "registry"
 MODEL_NAME = "mldemo"
 STAGE = "Production"
@@ -31,7 +31,7 @@ RANDOM_STATE = 42
 mlflow.set_tracking_uri(TRACKING_URI)
 mlflow.set_registry_uri(REGISTRY_URI)
 mlflow.set_experiment(EXPERIMENT_NAME)
-mlflow.autolog()  # enable auto logging
+mlflow.autolog()
 
 client = mlflow.tracking.MlflowClient()
 
@@ -43,24 +43,33 @@ X_train, X_test, y_train, y_test = model_selection.train_test_split(
     X, y, test_size=TEST_SIZE, random_state=RANDOM_STATE
 )
 
-# %% TRAINING
+# %% TRAINING + REGISTRY
 
-# create one mlflow run for the training
 with mlflow.start_run(run_name="Training") as run:
     print(f"[START] Run ID: {run.info.run_id}")
 
-    # - tracking
     model = ensemble.RandomForestClassifier(n_estimators=N_ESTIMATORS, max_depth=MAX_DEPTH, random_state=RANDOM_STATE)
     model.fit(X_train, y_train)
 
-    # - signature
-    # bug: it should be automatic
     signature = infer_signature(X_train, y_test)
 
-    # - registry
-    info = mlflow.sklearn.log_model(model, "model", signature=signature, registered_model_name=MODEL_NAME)
+    mlflow.sklearn.log_model(
+        model,
+        artifact_path="model",
+        signature=signature,
+        registered_model_name=MODEL_NAME
+    )
 
-    print(f"[STOP] Run ID: {run.info.run_id}")
+    latest_version = client.get_latest_versions(MODEL_NAME, stages=[])[-1].version
+    print(f"[STOP] Run ID: {run.info.run_id} - Registered as version {latest_version}")
+
+    client.transition_model_version_stage(
+        name=MODEL_NAME,
+        version=latest_version,
+        stage=STAGE,
+        archive_existing_versions=True,
+    )
+    print(f"✅ Model '{MODEL_NAME}' version {latest_version} transitioned to stage '{STAGE}'")
 
 # %% SEARCHING
 
@@ -76,4 +85,4 @@ for model in client.search_registered_models():
 
 model = mlflow.sklearn.load_model(f"models:/{MODEL_NAME}/{STAGE}")
 score = metrics.accuracy_score(y_test, model.predict(X_test))
-print(f"Score: {score:.2f}")
+print(f"📈 Accuracy: {score:.2f}")

@@ -39,3 +39,11 @@ poetry run python src/mldemo/tracking.py
 ```bash
 poetry run python src/mldemo/registry.py
 ```
+
+## RUN 2 MODELS 
+
+```bash
+poetry run mlflow run . -P model_type=rf
+poetry run mlflow run . -P model_type=lr
+ 
+```

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/0/81c37416285c409eb625a71a01ab9a00/artifacts
+end_time: 1751928075506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81c37416285c409eb625a71a01ab9a00
+run_name: receptive-kite-72
+run_uuid: 81c37416285c409eb625a71a01ab9a00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751928074579
+status: 4
+tags: []
+user_id: tukanebari

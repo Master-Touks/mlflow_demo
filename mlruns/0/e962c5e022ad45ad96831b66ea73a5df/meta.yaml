@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/0/e962c5e022ad45ad96831b66ea73a5df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e962c5e022ad45ad96831b66ea73a5df
+run_name: stately-calf-813
+run_uuid: e962c5e022ad45ad96831b66ea73a5df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751928008038
+status: 1
+tags: []
+user_id: tukanebari

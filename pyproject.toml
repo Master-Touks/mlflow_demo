@@ -25,6 +25,7 @@ ipython = "^8.12.0"
 isort = "^5.12.0"
 mypy = "^1.2.0"
 pylint = "^2.17.2"
+virtualenv = "^20.31.2"
 
 [tool.black]
 line-length = 120

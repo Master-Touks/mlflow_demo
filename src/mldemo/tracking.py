@@ -10,7 +10,7 @@ from sklearn import datasets, ensemble, metrics, model_selection
 # %% CONFIGS
 
 # - MLflow
-TRACKING_URI = "http://localhost:5000"
+TRACKING_URI = "http://localhost:5001"
 EXPERIMENT_NAME = "tracking"
 
 # - Model

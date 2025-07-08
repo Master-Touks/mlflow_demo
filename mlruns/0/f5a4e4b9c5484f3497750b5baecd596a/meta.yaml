@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/0/f5a4e4b9c5484f3497750b5baecd596a/artifacts
+end_time: 1751928192738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5a4e4b9c5484f3497750b5baecd596a
+run_name: delightful-mouse-270
+run_uuid: f5a4e4b9c5484f3497750b5baecd596a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751928191236
+status: 4
+tags: []
+user_id: tukanebari

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/0/067b39611b304283b50429270e47fd0b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 067b39611b304283b50429270e47fd0b
+run_name: charming-hound-283
+run_uuid: 067b39611b304283b50429270e47fd0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751928009250
+status: 1
+tags: []
+user_id: tukanebari

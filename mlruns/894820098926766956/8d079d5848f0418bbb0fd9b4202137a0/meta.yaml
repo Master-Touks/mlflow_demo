@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/8d079d5848f0418bbb0fd9b4202137a0/artifacts
+end_time: 1751928382246
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 8d079d5848f0418bbb0fd9b4202137a0
+run_name: useful-moose-113
+run_uuid: 8d079d5848f0418bbb0fd9b4202137a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751928382242
+status: 3
+tags: []
+user_id: tukanebari

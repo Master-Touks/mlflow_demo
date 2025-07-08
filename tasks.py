@@ -17,4 +17,4 @@ def install(c: Context) -> None:
 @task
 def serve(c: Context) -> None:
     """Start the mlflow server."""
-    c.run("docker-compose up")
+    c.run("docker compose up")

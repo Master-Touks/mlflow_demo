@@ -1,0 +1,8 @@
+name: mldemo
+
+entry_points:
+  main:
+    parameters:
+      model_type: {type: str}
+    command: >
+      poetry run python src/mldemo/train_model.py --model_type={model_type}

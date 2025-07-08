@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/c608152d13a14db7a684613378f46e36/artifacts
+end_time: 1751928268982
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: c608152d13a14db7a684613378f46e36
+run_name: kindly-bass-562
+run_uuid: c608152d13a14db7a684613378f46e36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751928268978
+status: 3
+tags: []
+user_id: tukanebari

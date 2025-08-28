@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/0/056b0d4649c546ff9db09864adce551c/artifacts
+end_time: 1756418911513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 056b0d4649c546ff9db09864adce551c
+run_name: languid-turtle-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756418909968
+status: 3
+tags: []
+user_id: tukanebari

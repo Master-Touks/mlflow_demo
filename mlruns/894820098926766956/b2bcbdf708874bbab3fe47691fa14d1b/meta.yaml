@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/b2bcbdf708874bbab3fe47691fa14d1b/artifacts
+end_time: 1756416944919
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: b2bcbdf708874bbab3fe47691fa14d1b
+run_name: flawless-koi-96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756416943258
+status: 3
+tags: []
+user_id: tukanebari

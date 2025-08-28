@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/0/2baedd86b66e46f08e8726f086a26084/artifacts
+end_time: 1756417758947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2baedd86b66e46f08e8726f086a26084
+run_name: adaptable-skunk-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756417757236
+status: 3
+tags: []
+user_id: tukanebari

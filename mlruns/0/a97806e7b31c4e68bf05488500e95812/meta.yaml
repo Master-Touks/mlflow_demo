@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/0/a97806e7b31c4e68bf05488500e95812/artifacts
+end_time: 1756392907949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a97806e7b31c4e68bf05488500e95812
+run_name: rambunctious-roo-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756392905826
+status: 3
+tags: []
+user_id: tukanebari

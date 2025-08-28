@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/01753cd7e4464b43ba42903dca6ebce5/artifacts
+end_time: 1756392828171
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 01753cd7e4464b43ba42903dca6ebce5
+run_name: colorful-hare-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756392828166
+status: 3
+tags: []
+user_id: tukanebari

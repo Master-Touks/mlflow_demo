@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/bebacb9fba964cd495ead57ed1efbeb9/artifacts
+end_time: 1756415448825
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: bebacb9fba964cd495ead57ed1efbeb9
+run_name: useful-snail-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756415445001
+status: 3
+tags: []
+user_id: tukanebari

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/704e890b43d44d6aabf4ab0314eff455/artifacts
+end_time: 1756416919134
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 704e890b43d44d6aabf4ab0314eff455
+run_name: adaptable-wasp-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756416917442
+status: 3
+tags: []
+user_id: tukanebari

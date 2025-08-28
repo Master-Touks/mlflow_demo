@@ -19,8 +19,8 @@ scikit-learn = "^1.2.2"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.3.0"
-invoke = "^2.0.0"
-ipykernel = "^6.22.0"
+invroke = "^2.0.0"
+ipykenel = "^6.22.0"
 ipython = "^8.12.0"
 isort = "^5.12.0"
 mypy = "^1.2.0"

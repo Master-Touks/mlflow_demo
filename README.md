@@ -26,6 +26,11 @@ Remember to activate the Virtual Environment before accessing the project:
 ./.venv/bin/activate
 ```
 
+Then 
+
+```bash
+mlflow ui --backend-store-uri "file:/{path}/mlruns" --port 5001
+```
 # Reproduction
 
 ## MLflow Tracking
@@ -43,7 +48,7 @@ poetry run python src/mldemo/registry.py
 ## RUN 2 MODELS 
 
 ```bash
-poetry run mlflow run . -P model_type=rf
-poetry run mlflow run . -P model_type=lr
+poetry run python src/mldemo/train_model.py --model_type=rf --experiment_name tracking
+poetry run python src/mldemo/train_model.py --model_type=lr --experiment_name tracking
  
 ```

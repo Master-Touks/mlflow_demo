@@ -1,0 +1,6 @@
+artifact_location: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow_demo/mlruns/756350872044678868
+creation_time: 1756415163349
+experiment_id: '756350872044678868'
+last_update_time: 1756415163349
+lifecycle_stage: active
+name: mldemo

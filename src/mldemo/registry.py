@@ -11,8 +11,8 @@ from sklearn import datasets, ensemble, metrics, model_selection
 # %% CONFIGS
 
 # - MLflow
-TRACKING_URI = "http://localhost:5001"
-REGISTRY_URI = "http://localhost:5001"
+TRACKING_URI = "http://127.0.0.1:5001"
+REGISTRY_URI = "http://127.0.0.1:5001"
 EXPERIMENT_NAME = "registry"
 MODEL_NAME = "mldemo"
 STAGE = "Production"
@@ -49,13 +49,13 @@ with mlflow.start_run(run_name="Training") as run:
     print(f"[START] Run ID: {run.info.run_id}")
 
     model = ensemble.RandomForestClassifier(n_estimators=N_ESTIMATORS, max_depth=MAX_DEPTH, random_state=RANDOM_STATE)
-    model.fit(X_train, y_train)
+    model = model.fit(X_train, y_train)
 
     signature = infer_signature(X_train, y_test)
 
     mlflow.sklearn.log_model(
         model,
-        artifact_path="model",
+        MODEL_NAME,
         signature=signature,
         registered_model_name=MODEL_NAME
     )

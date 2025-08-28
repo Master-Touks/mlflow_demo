@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/0/a7072828658b4128b049e1e7814b1b17/artifacts
+end_time: 1756392828332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7072828658b4128b049e1e7814b1b17
+run_name: stately-wren-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756392825856
+status: 3
+tags: []
+user_id: tukanebari

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/91cfeec4f2834ecd9ac87df4012d4e68/artifacts
+end_time: 1756416975637
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 91cfeec4f2834ecd9ac87df4012d4e68
+run_name: defiant-crab-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756416975632
+status: 3
+tags: []
+user_id: tukanebari

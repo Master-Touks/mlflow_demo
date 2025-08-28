@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/5f0a69ee71b74fa1a9ecdc43c732a953/artifacts
+end_time: 1756418911394
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 5f0a69ee71b74fa1a9ecdc43c732a953
+run_name: shivering-fowl-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756418911388
+status: 3
+tags: []
+user_id: tukanebari

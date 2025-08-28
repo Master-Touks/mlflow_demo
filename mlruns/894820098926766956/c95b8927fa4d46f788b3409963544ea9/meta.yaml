@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/c95b8927fa4d46f788b3409963544ea9/artifacts
+end_time: 1756415773655
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: c95b8927fa4d46f788b3409963544ea9
+run_name: marvelous-lynx-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756415771913
+status: 3
+tags: []
+user_id: tukanebari

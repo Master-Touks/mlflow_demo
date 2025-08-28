@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/0/8079e16de8c6498ca1a0f26d68e4fb4a/artifacts
+end_time: 1756417761286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8079e16de8c6498ca1a0f26d68e4fb4a
+run_name: amusing-gull-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756417759767
+status: 3
+tags: []
+user_id: tukanebari

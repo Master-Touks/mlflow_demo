@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/15da7cc1f9fb4fdbb4cc75c42141f6d4/artifacts
+end_time: 1756419343260
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 15da7cc1f9fb4fdbb4cc75c42141f6d4
+run_name: inquisitive-crab-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756419341365
+status: 3
+tags: []
+user_id: tukanebari

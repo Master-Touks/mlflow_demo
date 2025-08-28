@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/eed432d941b64fefacf71a807676e739/artifacts
+end_time: 1756417856075
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: eed432d941b64fefacf71a807676e739
+run_name: Training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756417854188
+status: 3
+tags: []
+user_id: tukanebari

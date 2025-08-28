@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/0/e63a28c076ca4255bfa84db471e4d071/artifacts
+end_time: 1756418909135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e63a28c076ca4255bfa84db471e4d071
+run_name: grandiose-horse-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756418907291
+status: 3
+tags: []
+user_id: tukanebari

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/1525328fdf894817b46cc282dfa3cc99/artifacts
+end_time: 1756417858882
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 1525328fdf894817b46cc282dfa3cc99
+run_name: adorable-newt-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756417856082
+status: 3
+tags: []
+user_id: tukanebari

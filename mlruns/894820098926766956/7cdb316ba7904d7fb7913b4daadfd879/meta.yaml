@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/7cdb316ba7904d7fb7913b4daadfd879/artifacts
+end_time: 1756416944926
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 7cdb316ba7904d7fb7913b4daadfd879
+run_name: unique-mare-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756416944922
+status: 3
+tags: []
+user_id: tukanebari

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/10490f6f54ab4046bbe46521653bb9dc/artifacts
+end_time: 1756419346618
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 10490f6f54ab4046bbe46521653bb9dc
+run_name: likeable-boar-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756419344702
+status: 3
+tags: []
+user_id: tukanebari

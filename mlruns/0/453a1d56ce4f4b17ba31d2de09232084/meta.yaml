@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/0/453a1d56ce4f4b17ba31d2de09232084/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 453a1d56ce4f4b17ba31d2de09232084
+run_name: legendary-vole-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756392707383
+status: 1
+tags: []
+user_id: tukanebari

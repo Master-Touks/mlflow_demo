@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/901b8fe96c1a4dc287da6d0c1487549f/artifacts
+end_time: 1756415492149
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 901b8fe96c1a4dc287da6d0c1487549f
+run_name: vaunted-asp-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756415490449
+status: 3
+tags: []
+user_id: tukanebari

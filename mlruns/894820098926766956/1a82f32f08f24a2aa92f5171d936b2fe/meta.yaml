@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/1a82f32f08f24a2aa92f5171d936b2fe/artifacts
+end_time: 1756416975630
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 1a82f32f08f24a2aa92f5171d936b2fe
+run_name: bold-ray-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756416973886
+status: 3
+tags: []
+user_id: tukanebari

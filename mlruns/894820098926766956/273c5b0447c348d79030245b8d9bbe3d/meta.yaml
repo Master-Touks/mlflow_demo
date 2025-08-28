@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/273c5b0447c348d79030245b8d9bbe3d/artifacts
+end_time: 1756421128856
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 273c5b0447c348d79030245b8d9bbe3d
+run_name: RF
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756421126909
+status: 3
+tags: []
+user_id: tukanebari

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/8b23207a6f124303a84ce4f58aaaad4e/artifacts
+end_time: 1756417858882
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 8b23207a6f124303a84ce4f58aaaad4e
+run_name: adventurous-jay-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756417856082
+status: 3
+tags: []
+user_id: tukanebari

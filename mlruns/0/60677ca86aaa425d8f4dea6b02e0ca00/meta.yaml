@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/0/60677ca86aaa425d8f4dea6b02e0ca00/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60677ca86aaa425d8f4dea6b02e0ca00
+run_name: receptive-stag-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756392630859
+status: 1
+tags: []
+user_id: tukanebari

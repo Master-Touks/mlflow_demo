@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/d1666edb3fa64163a94b52dc91dd2bf3/artifacts
+end_time: 1756419293443
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: d1666edb3fa64163a94b52dc91dd2bf3
+run_name: victorious-shoat-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756419291455
+status: 3
+tags: []
+user_id: tukanebari

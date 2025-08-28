@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow_demo/mlruns/756350872044678868/3d46140c0983490a89f8b36ba1a928f1/artifacts
+end_time: 1756415165495
+entry_point_name: ''
+experiment_id: '756350872044678868'
+lifecycle_stage: active
+run_id: 3d46140c0983490a89f8b36ba1a928f1
+run_name: delightful-fish-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756415163458
+status: 3
+tags: []
+user_id: tukanebari

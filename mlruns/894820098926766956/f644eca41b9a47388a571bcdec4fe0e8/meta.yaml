@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/f644eca41b9a47388a571bcdec4fe0e8/artifacts
+end_time: 1756415824903
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: f644eca41b9a47388a571bcdec4fe0e8
+run_name: casual-eel-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756415823230
+status: 3
+tags: []
+user_id: tukanebari

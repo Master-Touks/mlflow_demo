@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/b94144713b2344d4b629df0d2887bbd5/artifacts
+end_time: 1756417716009
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: b94144713b2344d4b629df0d2887bbd5
+run_name: omniscient-yak-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756417716004
+status: 3
+tags: []
+user_id: tukanebari

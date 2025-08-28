@@ -1,0 +1,10 @@
+artifact_location: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/models/m-b0386d444574435499757c5216ddd8d2/artifacts
+creation_timestamp: 1756415883349
+experiment_id: '894820098926766956'
+last_updated_timestamp: 1756415884732
+model_id: m-b0386d444574435499757c5216ddd8d2
+model_type: null
+name: model
+source_run_id: d0c4b61fc083432895347c218f59bf99
+status: 2
+status_message: null

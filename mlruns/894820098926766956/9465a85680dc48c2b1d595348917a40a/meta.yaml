@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/9465a85680dc48c2b1d595348917a40a/artifacts
+end_time: 1756457282446
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 9465a85680dc48c2b1d595348917a40a
+run_name: angry-whale-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756457279310
+status: 3
+tags: []
+user_id: tukanebari

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/16646b4d763c497f82847a8253649151/artifacts
+end_time: 1756422398068
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 16646b4d763c497f82847a8253649151
+run_name: wise-hen-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756422395376
+status: 3
+tags: []
+user_id: tukanebari

@@ -63,11 +63,10 @@ with mlflow.start_run(run_name="Training") as run:
     latest_version = client.get_latest_versions(MODEL_NAME, stages=[])[-1].version
     print(f"[STOP] Run ID: {run.info.run_id} - Registered as version {latest_version}")
 
-    client.transition_model_version_stage(
+    client.set_registered_model_alias(
         name=MODEL_NAME,
-        version=latest_version,
-        stage=STAGE,
-        archive_existing_versions=True,
+        alias=STAGE,
+        version=str(latest_version),
     )
     print(f"✅ Model '{MODEL_NAME}' version {latest_version} transitioned to stage '{STAGE}'")
 
@@ -83,6 +82,6 @@ for model in client.search_registered_models():
 
 # %% INFERENCE
 
-model = mlflow.sklearn.load_model(f"models:/{MODEL_NAME}/{STAGE}")
+model = mlflow.sklearn.load_model(f"models:/{MODEL_NAME}@{STAGE}")
 score = metrics.accuracy_score(y_test, model.predict(X_test))
 print(f"📈 Accuracy: {score:.2f}")

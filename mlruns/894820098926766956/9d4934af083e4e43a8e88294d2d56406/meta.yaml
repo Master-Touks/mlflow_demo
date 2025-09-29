@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/9d4934af083e4e43a8e88294d2d56406/artifacts
+end_time: 1756422398068
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 9d4934af083e4e43a8e88294d2d56406
+run_name: traveling-jay-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756422395376
+status: 3
+tags: []
+user_id: tukanebari

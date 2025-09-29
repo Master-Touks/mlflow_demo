@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/c89905dd08b84192a0b89b13aaaa1f45/artifacts
+end_time: 1756422398068
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: c89905dd08b84192a0b89b13aaaa1f45
+run_name: treasured-zebra-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756422395376
+status: 3
+tags: []
+user_id: tukanebari

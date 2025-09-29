@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291772111812218625/98fac49dd6634425a66114f91685abf5/artifacts
+end_time: 1756422935353
+entry_point_name: ''
+experiment_id: '291772111812218625'
+lifecycle_stage: active
+run_id: 98fac49dd6634425a66114f91685abf5
+run_name: Training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756422931699
+status: 3
+tags: []
+user_id: tukanebari

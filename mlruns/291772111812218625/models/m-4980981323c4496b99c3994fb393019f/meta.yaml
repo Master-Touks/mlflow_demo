@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/291772111812218625/models/m-4980981323c4496b99c3994fb393019f/artifacts
+creation_timestamp: 1756422408481
+experiment_id: '291772111812218625'
+last_updated_timestamp: 1756422409897
+model_id: m-4980981323c4496b99c3994fb393019f
+model_type: ''
+name: model
+source_run_id: 93fd1190794b4d32889f6fffbd11e175
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/04d27a0aed544c2493c1a2d3c90d4331/artifacts
+end_time: 1756457282446
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 04d27a0aed544c2493c1a2d3c90d4331
+run_name: rebellious-dog-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756457279310
+status: 3
+tags: []
+user_id: tukanebari

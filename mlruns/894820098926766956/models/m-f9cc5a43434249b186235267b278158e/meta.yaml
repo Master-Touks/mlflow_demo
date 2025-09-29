@@ -1,0 +1,10 @@
+artifact_location: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/models/m-f9cc5a43434249b186235267b278158e/artifacts
+creation_timestamp: 1756422396812
+experiment_id: '894820098926766956'
+last_updated_timestamp: 1756422398066
+model_id: m-f9cc5a43434249b186235267b278158e
+model_type: ''
+name: best_estimator
+source_run_id: ee3e4876c46f4ce496dbdfe9897c38a8
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/e4e942251bf6402daebe11ec972d59c6/artifacts
+end_time: 1756422355096
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: e4e942251bf6402daebe11ec972d59c6
+run_name: persistent-goat-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756422351819
+status: 3
+tags: []
+user_id: tukanebari

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/3efd4785037b4d39b669f2df8bc4a631/artifacts
+end_time: 1756422351196
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: 3efd4785037b4d39b669f2df8bc4a631
+run_name: hilarious-swan-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756422347377
+status: 3
+tags: []
+user_id: tukanebari

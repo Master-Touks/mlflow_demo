@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tukanebari/PycharmProjects/mlops_gcp/mlflow-demo/mlruns/894820098926766956/ccc2657dc4084dd2b6323df040e2b56c/artifacts
+end_time: 1756457282522
+entry_point_name: ''
+experiment_id: '894820098926766956'
+lifecycle_stage: active
+run_id: ccc2657dc4084dd2b6323df040e2b56c
+run_name: Tuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756457279310
+status: 3
+tags: []
+user_id: tukanebari

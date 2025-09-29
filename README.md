@@ -29,7 +29,7 @@ Remember to activate the Virtual Environment before accessing the project:
 Then 
 
 ```bash
-mlflow ui --backend-store-uri "file:/{path}/mlruns" --port 5001
+ mlflow ui --backend-store-uri "file:/Users/tukanebari/PycharmProjects/mlops_gcp/mlflow_demo/mlruns" --port 5001
 ```
 # Reproduction
 
